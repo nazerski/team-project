@@ -104,3 +104,50 @@ body{
     color: silver;
     margin-top: -50px;
 }
+.grid_container1{
+    margin-top: 55px;
+    max-width: 100%;
+    vertical-align: top;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    column-gap: 100px;
+    row-gap: 50px;
+}
+.cars1{
+    width: 316px;
+    height: 150px;
+    transition: 1s;
+    display: block;
+}
+.cars1:hover{
+    transform: scale(1.1);
+}
+.opisanie3{
+    margin-top: -40px;
+    color: silver;
+    font-size: 19px;
+}
+.opisanie4{
+    margin-top: -15px;
+    color: silver;
+    font-size: 19px;
+    margin-left: 119px;
+}
+.opisanie5{
+    color: silver;
+    font-size: 18px;
+    margin-top: -40px;
+}
+.opisanie6{
+    color: silver;
+    font-size: 18px;
+    margin-top: -15px;
+    margin-left: 119px;
+}
+.opisanie7{
+    color: silver;
+    font-size: 20px;
+    margin-top: -40px;
+    margin-left: 110px;
+}
